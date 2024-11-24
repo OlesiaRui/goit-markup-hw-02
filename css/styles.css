@@ -53,14 +53,30 @@ a {
    color: #404bbf; 
   }
 
-.section-one-text {
+
+.button:hover,
+ .button:focus {
+background-color: #404bbf;
+}
+.solution-subtitle {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #FFFFFF;
 }
+
+.solution-text {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color:#434455
+}
    
+
 .footer-logo {
   font-family: "Raleway", sans-serif;
  font-weight: 700;
