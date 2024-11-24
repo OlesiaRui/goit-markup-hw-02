@@ -50,14 +50,16 @@ a {
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
-  color: #404bbf;
+   color: #404bbf; 
   }
 
-
-.footer {
-
-background-color: #2E2F42;
-  }
+.section-one-text {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
    
 .footer-logo {
   font-family: "Raleway", sans-serif;
