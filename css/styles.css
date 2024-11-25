@@ -40,10 +40,14 @@ a {
 }
 
 .header-logo .header-logo-studio {
+  margin-right: 76px;
   color: #2e2f42;
 }
 
-.nav-link {
+.footer-logo {
+  margin-bottom: 16px;
+}
+.heroimage {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -153,7 +157,7 @@ background-color: #404bbf;
    color: #434455;
  }
 
- .footer {
+ .page footer {
   background-color: #2E2F42;
  }
 
