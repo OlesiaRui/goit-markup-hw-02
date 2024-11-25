@@ -13,6 +13,22 @@ a {
   text-decoration: none;
 }
 
+.button {
+  color: #FFFFFF;
+  background-color: #4d5ae5;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-align: center;
+  margin: 0 auto;
+}
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -27,6 +43,9 @@ a {
   color: #2e2f42;
 }
 
+.footer-logo .logo-part {
+  color: #F4F4FD;
+}
 .nav-link {
   font-weight: 500;
   font-size: 16px;
@@ -67,7 +86,7 @@ background-color: #404bbf;
 }
 
 .solution-text {
-  font-family: Roboto;
+  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -137,7 +156,7 @@ background-color: #404bbf;
  }
 
  .footer-logo-studio {
-   color: #F4F4FD;
+  background-color: #2E2F42;
  }
 
  .footer-text {
