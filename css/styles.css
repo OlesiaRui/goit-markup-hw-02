@@ -92,6 +92,13 @@ a {
   color: #2e2f42;
 }
 
+.solution-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
 .solution-text {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -106,7 +113,7 @@ a {
 .team{
   background-color: #F4F4FD;
 }
-.list{
+.team-list{
   background-color: #FFFFFF;
 }
 
