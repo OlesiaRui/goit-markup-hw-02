@@ -57,7 +57,7 @@ a {
   color: #404bbf;
 }
 
-.heroimage {
+.section-one {
   background-color: #2E2F42;}
 
  .section-one-text {
@@ -76,7 +76,6 @@ a {
   line-height: 1.5;
   cursor: pointer;
   letter-spacing: 0.04em;
-  color: #FFFFFF;
 }
 
 .button:hover,
